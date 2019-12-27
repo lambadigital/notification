@@ -1,6 +1,6 @@
 {
-  "name": "notification",
-  "version": "1.0.0",
+  "name": "lamba-react-notification",
+  "version": "1.0.1",
   "description": "A simple and fully customizable React Native component that implements a notification UI.",
   "main": "index.js",
   "scripts": {
@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/lambadigital/notification/issues"
   },
-  "homepage": "https://github.com/lambadigital/notification#readme"
+  "homepage": "https://github.com/lambadigital/notification#readme",
+  "dependencies": {
+    "react-native-onesignal": "3.6.0"
+  }
 }
