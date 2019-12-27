@@ -1,0 +1,32 @@
+{
+  "name": "notification",
+  "version": "1.0.0",
+  "description": "A simple and fully customizable React Native component that implements a notification UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lambadigital/notification.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "onesignal",
+    "notification"
+  ],
+  "author": "Lamba Dijital",
+  "license": "Commercial",
+  "bugs": {
+    "url": "https://github.com/colbymillerdev/react-native-progress-steps/issues"
+  },
+  "homepage": "https://github.com/colbymillerdev/react-native-progress-steps#readme"
+}
